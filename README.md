@@ -1,11 +1,11 @@
 ## Software Developer
-    POST-GRADUATE CERTIFICATE
+POST-GRADUATE CERTIFICATE
 ### Program Overview
 The Software Developer post-graduate certificate will prepare you for the challenges of developing software products and web applications for clients. Software Developer is designed to expand your current knowledge and skills into the fields of technology, computer applications, data communications, data design, and software analysis and design.
 
 You will gain programming experience through hands-on learning, and develop the skills necessary to analyze and design information technology based solutions.
 
-###Career and Salary Information
+### Career
 Through your studies, you will develop knowledge and skills in:
     computer programming
     web development and app development and deployment
