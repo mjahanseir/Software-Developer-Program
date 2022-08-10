@@ -35,17 +35,17 @@ Length: 38 weeks
     - Potential Learning Method(s): Lecture/Lab, Online
 
 #### [CWEB 601 - Internet Programming and Web Apps 1](https://github.com/mjahanseir/CWEB601-Internet-Programming-and-Web-Apps-1)
-  - You will receive instruction and practice in the development of client-side Web applications. You will use javascript to improve Web page design, validate forms, detect browsers, create cookies, and detect and respond to user actions.
-  - Credit Units: 3
-  - Course Hours: 45.0
-  - Prerequisites(s): CWEB 600(concurrent)
-  - Potential Learning Method(s): Lecture/Lab, Online
+      - You will receive instruction and practice in the development of client-side Web applications. You will use javascript to improve Web page design, validate forms, detect browsers, create cookies, and detect and respond to user actions.
+      - Credit Units: 3
+      - Course Hours: 45.0
+      - Prerequisites(s): CWEB 600(concurrent)
+      - Potential Learning Method(s): Lecture/Lab, Online
 
 #### [CWEB 603 - Software Development Fundamentals](https://github.com/mjahanseir/CWEB603-Software-Development-Fundamentals)
-  - You will study the concepts of User Experience (UX) which encompass a wide range of activities including User Interface (UI) design, Information Architecture (IA) and field research. You will learn about usability design and testing, tight integration and collaboration with software development processes which are elements of User Experience (UX). You will develop a better understanding of the role of User Experience/User Interface (UX/UI) as you follow an iterative and agile approach which focuses on User-Centered Design (UCD) as the motivator for product direction. You will learn how software is developed following an agile process methodology as well as how to manage program code using a version control system.
-  - Credit Units: 3
-  - Course Hours: 45.0
-  - Potential Learning Method(s): Lecture/Lab, Online, Prior Learning
+      - You will study the concepts of User Experience (UX) which encompass a wide range of activities including User Interface (UI) design, Information Architecture (IA) and field research. You will learn about usability design and testing, tight integration and collaboration with software development processes which are elements of User Experience (UX). You will develop a better understanding of the role of User Experience/User Interface (UX/UI) as you follow an iterative and agile approach which focuses on User-Centered Design (UCD) as the motivator for product direction. You will learn how software is developed following an agile process methodology as well as how to manage program code using a version control system.
+      - Credit Units: 3
+      - Course Hours: 45.0
+      - Potential Learning Method(s): Lecture/Lab, Online, Prior Learning
 
 <hr>
 
